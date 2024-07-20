@@ -1,1 +1,5 @@
 env
+ebay_tracker.log
+ebay_data.db
+test_ebay_data.db
+__pycache__
