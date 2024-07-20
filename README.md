@@ -56,3 +56,15 @@ The project includes unit tests for the main functionalities. To run the tests, 
 ```bash
 python -m unittest test.py
 ```
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (git checkout -b feature/feature-name)
+3. Commit your changes (git commit -am 'Add some feature')
+4. Push to the branch (git push origin feature/feature-name)
+5. Create a new Pull Request
+
+## Contact
+
+If you have any questions, feel free to open an issue or contact me directly at [igor.udovenko2015@gmail.com].
